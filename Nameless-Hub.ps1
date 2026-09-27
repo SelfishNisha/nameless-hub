@@ -5,7 +5,7 @@ $projects = @(
     File = "USB-Connections.ps1"
   }
   @{
-    Name = "Mod-Reviewer - Scans the minecraft mods folder for cheats"
+    Name = "Mod-Reviewer - Scans the minecraft mods folder (or the provided path) for cheats"
     Url  = "https://raw.githubusercontent.com/NameLessF0/Mod-Reviewer/refs/heads/main/Mod-Reviewer.ps1"
     File = "Mod-Reviewer.ps1"
   }
