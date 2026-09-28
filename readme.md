@@ -6,7 +6,8 @@ A script to quickly run [namelessf0](https://github.com/NameLessF0)'s ss scripts
 
 - [USB-Connections](https://github.com/NameLessF0/USB-Connections)
 - [Detective](https://github.com/NameLessF0/Detective)
-- [Mod-Reviewer]( https://github.com/NameLessF0/Mod-Reviewer)
+- [Mod-Reviewer](https://github.com/NameLessF0/Mod-Reviewer)
+- [Service-Checker](https://github.com/NameLessF0/Service-Checker)
 
 ## How To Use
 
