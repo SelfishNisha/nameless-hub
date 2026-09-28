@@ -1,7 +1,7 @@
 $projects = @(
   @{
     Name = "USB Connections - live info of every fat32 connected to the system"
-    Url  = "https://raw.githubusercontent.com/NameLessF0/USB-Connections/refs/heads/main/USB-Connections"
+    Url  = "https://raw.githubusercontent.com/NameLessF0/USB-Connections/refs/heads/main/USB-Connections.ps1"
     File = "USB-Connections.ps1"
   }
   @{
